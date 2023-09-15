@@ -11,3 +11,7 @@ Activity 2: <br />
 Activity 3: <br />
 ![a3_1](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/f6b002ef-7e0f-42c2-9887-05cead2dc629)
 ![a3_2](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/84b5acf9-b3a4-4203-9e8c-72db0de51c21)
+
+Activity 4: <br />
+![a4_!](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/8c2ad391-6017-4c68-b01f-57f07c93096e)
+![a4_2](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/b5e68238-7bb2-4886-8746-66dd8bcaa404)
