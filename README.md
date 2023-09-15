@@ -7,3 +7,7 @@ Activity 1: <br />
 Activity 2: <br />
 ![a2_1](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/fc1d180e-00e1-4e1e-a2cd-04c3bbffb112)
 ![a2_2](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/90289cb4-65e1-483d-b667-38428ca880cf)
+
+Activity 3: <br />
+![a3_1](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/f6b002ef-7e0f-42c2-9887-05cead2dc629)
+![a3_2](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/84b5acf9-b3a4-4203-9e8c-72db0de51c21)
