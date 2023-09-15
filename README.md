@@ -19,3 +19,4 @@ Activity 4: <br />
 Activity 5: <br />
 ![a5_1](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/c3b6fdd5-fece-4379-aaf1-ffb8bb2b63ef)
 ![a5_2](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/16ad520a-681c-435d-8a47-0e19b993c2e3)
+![a5_3](https://github.com/EngRia/ECE444-F2023-Assignment1/assets/144556073/9fff0092-a936-47b0-9c03-d52828e9868c)
